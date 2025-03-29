@@ -1,6 +1,5 @@
 # web-traffic-predictive-insights
 Forecasting website traffic using SARIMA modeling to improve performance, engagement, and operational efficiency.
-# Web Traffic: Predictive Insights for Smarter Site Strategy
 
 **Project Duration:** Dec 2022 – Jan 2023  
 **Author:** Alberto Akkarakkaran
